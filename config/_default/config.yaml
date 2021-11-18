@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Fr. George Dragas # Website name
-baseurl: 'frgacademic.netlify.app' # Website URL
+baseurl: 'frgeorge.org' # Website URL
 copyright: '&copy; {year}' # Footer text, e.g. '© {year} Me'
 
 ############################
