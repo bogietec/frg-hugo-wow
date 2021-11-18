@@ -7,7 +7,7 @@
 
 theme: minimal
 day_night: true
-font: ''
+font: 'SF Pro'
 font_size: L
 
 # SEO
@@ -15,20 +15,11 @@ font_size: L
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: ''
+description: 'Personal website for Fr. George Dragas'
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: gdragas@gmail.com
-phone: 888 888 88 88
-address:
-  street: 102 Belgrade Ave. 
-  city: Roslindale 
-  region: MA
-  postcode: '02131'
-  country: United States
-  country_code: US
 
 # Site header
 
