@@ -16,16 +16,16 @@ organizations:
     url: https://www.hchc.edu/
 education:
   courses:
-    - course: D.Phil. Faculty of Theology
+    - course: DPhil Faculty of Theology
       institution: University of Durham, UK
       year: 1981
-    - course: Ph.D in Theology
+    - course: PhD in Theology
       institution: Edinburgh University, transferred to University of Durham, UK
       year: 1975
-    - course: Th.M. (Master of Theology)
+    - course: ThM (Master of Theology)
       institution: Princeton Theological Seminary, USA
       year: 1971
-    - course: B.D. (Bachelor of Divinity)
+    - course: BD (Bachelor of Divinity)
       institution: Edinburgh University, Scotland
 email: gdragas@gmail.com
 superuser: true
