@@ -1,5 +1,5 @@
 ---
-title: Protopresbyter George D. Dragas, DPhil
+title: Protopresbyter George D. Dragas, DPhil, DD (h.c.), ThD (h.c.)
 role: Professor Emeritus of Patrology and Patristics
 bio: My research interests include the Fathers of the Church (Early and
   Byzantine) and particularly St. Athanasius and St. Cyril of Alexandria
@@ -31,4 +31,4 @@ email: gdragas@gmail.com
 superuser: true
 highlight_name: true
 ---
-My research interests include the Fathers of the Church (Early and Byzantine) and particularly St. Athanasius and St. Cyril.
+Fr. George Dragas was one of the last students to study with Fr. George Florovsky at the Princeton Theological Seminary. His research interests include the Fathers of the Church (Early and Byzantine) and particularly St. Athanasius and St. Cyril.
