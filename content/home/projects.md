@@ -3,7 +3,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: portfolio
 
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -11,7 +11,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
+title: Courses
 subtitle: ''
 
 content:
@@ -29,10 +29,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Florovsky's Patrology
+    tag:
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
