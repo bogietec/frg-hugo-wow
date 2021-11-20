@@ -1,5 +1,5 @@
 ---
-title: Protopresbyter George D. Dragas, DPhil, DD (h.c.), ThD (h.c.)
+title: Protopresbyter George Dion Dragas, DPhil, DD (h.c.), ThD (h.c.)
 role: Professor Emeritus of Patrology and Patristics
 bio: My research interests include the Fathers of the Church (Early and
   Byzantine) and particularly St. Athanasius and St. Cyril of Alexandria
