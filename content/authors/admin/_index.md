@@ -36,4 +36,6 @@ email: gdragas@gmail.com
 superuser: true
 highlight_name: true
 ---
-Fr. George Dragas was one of the last students to study with Fr. George Florovsky at the Princeton Theological Seminary. He went on to complete his PhD at Durham University, UK under the supervision of prof. Thomas Torrance.  Fr. George's  research interests include the eastern fathers of the Church and in particular St. Athanasius of Alexandria and St. Cyril of Alexandria. He retired from his position at Holy Cross Greek Orthodox School of Theology in 2020 but continues to teach online and write books. 
+Fr. George Dragas is a an Orthodox priest, theologian, and emeritus professor of patrology and patristics. He was a close student of Fr. George Florovsky at the Princeton Theological Seminary while working on his master's degree. He went on to complete his PhD at Durham University, UK under the supervision of prof. Thomas Torrance. He has taught for many years first at Durham University, UK and then at Holy Cross, Brookline, MA and has been a visiting professor in several other theological schools and universities. Fr. George's  research interests include the eastern fathers of the Church and in particular St. Athanasius of Alexandria and St. Cyril of Alexandria. He retired from his position at Holy Cross Greek Orthodox School of Theology in 2020 but continues to teach online and write books.
+
+{{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/cv.pdf" "newtab" >}}full CV.pdf{{< /staticref >}}
