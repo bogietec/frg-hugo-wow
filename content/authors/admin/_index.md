@@ -1,8 +1,7 @@
 ---
 title: Protopresbyter George D. Dragas, DPhil, DD (h.c.), ThD (h.c.)
 role: Professor Emeritus of Patrology and Patristics
-bio: My research interests include the Fathers of the Church (Early and
-  Byzantine) and particularly St. Athanasius and St. Cyril of Alexandria
+bio: My research interests include the eastern fathers of the Church and in particular St. Athanasius of Alexandria and St. Cyril of Alexandria
 interests:
   - Orthodox Theology
   - Patristics
@@ -11,6 +10,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
+  - icon: academia
+    icon_pack: ai
+    link: https://academia.edu
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com
 organizations:
   - name: Holy Cross Greek Orthodox School of Theology
     url: https://www.hchc.edu/
@@ -31,4 +36,4 @@ email: gdragas@gmail.com
 superuser: true
 highlight_name: true
 ---
-Fr. George Dragas was one of the last students to study with Fr. George Florovsky at the Princeton Theological Seminary. His research interests include the Fathers of the Church (Early and Byzantine) and particularly St. Athanasius and St. Cyril.
+Fr. George Dragas was one of the last students to study with Fr. George Florovsky at the Princeton Theological Seminary. He went on to complete his PhD at Durham University, UK under the supervision of prof. Thomas Torrance.  Fr. George's  research interests include the eastern fathers of the Church and in particular St. Athanasius of Alexandria and St. Cyril of Alexandria. He retired from his position at Holy Cross Greek Orthodox School of Theology in 2020 but continues to teach online and write books. 
