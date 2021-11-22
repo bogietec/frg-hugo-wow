@@ -11,10 +11,10 @@ main:
     url: '/courses'
     weight: 20
   - name: Books
-    url: '#featured'
+    url: '#books'
     weight: 30
   - name: Articles
-    url: '#publications'
+    url: '#articles'
     weight: 40
   - name: Talks  #youtube imbeds, audio snippets
     url: '#talks'
