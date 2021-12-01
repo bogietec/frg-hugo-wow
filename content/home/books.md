@@ -9,7 +9,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 40
 
 title: Upcoming Books
 subtitle: ''
@@ -39,11 +39,17 @@ design:
   view: 1
 ---
 
+## St. Athanasius of Alexandria
+by Protopresbyter George D. Dragas
+
 ## Athanasius Contra Apollinarem  
 - a new revised edition  
+by Protopresbyter George D. Dragas
 
 ## The Patrology of Fr. George Florovsky
+by Protopresbyter George D. Dragas  
 - an updated edition with commentary, footnotes, bibliography and supplemental materials. 
   
 ## An Outline of Orthodox Patristic Dogmatics
-- an updated and revised edition
+- an updated and revised edition  
+by John Romanides
