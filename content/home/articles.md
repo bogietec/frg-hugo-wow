@@ -38,5 +38,3 @@ design:
   #   4 = Citation (publication only)
   view: 1
 ---
-
-Test article by Fr. George Dragas

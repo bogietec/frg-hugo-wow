@@ -39,17 +39,19 @@ design:
   view: 1
 ---
 
-## St. Athanasius of Alexandria
-by Protopresbyter George D. Dragas
+## *St. Athanasius of Alexandria*
+by **Protopresbyter George D. Dragas**
 
-## Athanasius Contra Apollinarem  
-- a new revised edition  
-by Protopresbyter George D. Dragas
+## *St. Athanasius against Apollinaris*  
+by **Protopresbyter George D. Dragas**
 
-## The Patrology of Fr. George Florovsky
-by Protopresbyter George D. Dragas  
-- an updated edition with commentary, footnotes, bibliography and supplemental materials. 
+## *The Patrology of Fr. George Florovsky*
+an updated edition with a commentary, footnotes, bibliography and supplemental materials
+by **Protopresbyter George D. Dragas**  
   
-## An Outline of Orthodox Patristic Dogmatics
-- an updated and revised edition  
-by John Romanides
+## *An Outline of Orthodox Patristic Dogmatics*
+an updated and revised edition  
+by **Protopresyter John Romanides**
+
+## The Orthodox Church - A Primer of Church History
+by **Chrysostomos Papadopoulos**
