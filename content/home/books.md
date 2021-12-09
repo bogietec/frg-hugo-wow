@@ -39,7 +39,8 @@ design:
   view: 1
 ---
 
-## *St. Athanasius of Alexandria*
+## Orthodox Perspectives on the Theology of St. Athanasius of Alexandria
+#### a Collection of Essays and Articles
 by **Protopresbyter George D. Dragas**
 
 ## *St. Athanasius against Apollinaris*  
