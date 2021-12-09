@@ -20,7 +20,7 @@ main:
     url: '#talks'
     weight: 50
   - name: ⛪️ Sermons
-    url: '#posts'
+    url: '#sermons'
     weight: 70
   - name: ✍🏻 Posts
     url: '#posts'

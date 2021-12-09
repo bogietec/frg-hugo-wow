@@ -54,4 +54,4 @@ an updated and revised edition
 by **Protopresyter John Romanides**
 
 ## The Orthodox Church - A Primer of Church History
-by **Chrysostomos Papadopoulos**
+by **Archbishop Chrysostomos Papadopoulos**
