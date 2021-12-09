@@ -39,15 +39,15 @@ design:
   view: 1
 ---
 
-## Orthodox Perspectives on the Theology of St. Athanasius of Alexandria
-#### a Collection of Essays and Articles
+## St. Athanasius of Alexandria — Orthodox Perspectives
+##### *A Collection of Essays and Articles*  
 by **Protopresbyter George D. Dragas**
 
 ## *St. Athanasius against Apollinaris*  
 by **Protopresbyter George D. Dragas**
 
 ## *The Patrology of Fr. George Florovsky*
-an updated edition with a commentary, footnotes, bibliography and supplemental materials
+an updated edition with a commentary, footnotes, bibliography and supplemental materials  
 by **Protopresbyter George D. Dragas**  
   
 ## *An Outline of Orthodox Patristic Dogmatics*
