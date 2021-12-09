@@ -6,7 +6,7 @@ widget: pages
 # This file represents a page section.
 headless: true
 
-active: false
+active: true
 
 # Order that this section appears on the page.
 weight: 30
@@ -40,9 +40,3 @@ design:
 ---
 
 ## Online Courses via Zoom — coming soon...
-
-### *Introduction to St. Athanasius of Alexandria*
-- Textbook: St. Athanasius of Alexandria by Protopresbyter George D. Dragas, Orthodox Horizons (2022)
-- Spring, 2022 (February - May)
-- Duration: 10 weeks
-- Time of Meetings: 2 hours weekly, day and time – TBD
